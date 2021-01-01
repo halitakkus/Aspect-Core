@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tf1TRwcdogdeXJKWtzuwiwrEc4o6qnF8iWzKuVp9M1lDUj7ssrYY1TP9NTyC8lGEwEV+HzrAqFmao4x6BbCCXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\halit\\source\\repos\\Core\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\halit\\.nuget\\packages\\fluentvalidation\\8.5.1\\fluentvalidation.8.5.1.nupkg.sha512",
+    "C:\\Users\\halit\\.nuget\\packages\\fluentvalidation.aspnetcore\\8.5.1\\fluentvalidation.aspnetcore.8.5.1.nupkg.sha512",
+    "C:\\Users\\halit\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\8.5.1\\fluentvalidation.dependencyinjectionextensions.8.5.1.nupkg.sha512",
+    "C:\\Users\\halit\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\halit\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}

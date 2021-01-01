@@ -1,0 +1,9 @@
+C:\Users\halit\source\repos\Core\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\halit\source\repos\Core\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\halit\source\repos\Core\Core\obj\Debug\netcoreapp3.1\Core.csprojAssemblyReference.cache
+C:\Users\halit\source\repos\Core\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\halit\source\repos\Core\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\halit\source\repos\Core\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\halit\source\repos\Core\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\halit\source\repos\Core\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\halit\source\repos\Core\Core\obj\Debug\netcoreapp3.1\Core.pdb
