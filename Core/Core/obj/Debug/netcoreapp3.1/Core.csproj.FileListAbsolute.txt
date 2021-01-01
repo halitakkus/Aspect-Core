@@ -7,3 +7,12 @@ C:\Users\halit\source\repos\Core\Core\bin\Debug\netcoreapp3.1\Core.pdb
 C:\Users\halit\source\repos\Core\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
 C:\Users\halit\source\repos\Core\Core\obj\Debug\netcoreapp3.1\Core.dll
 C:\Users\halit\source\repos\Core\Core\obj\Debug\netcoreapp3.1\Core.pdb
+E:\GIT\Aspect-Core\Core\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+E:\GIT\Aspect-Core\Core\Core\bin\Debug\netcoreapp3.1\Core.dll
+E:\GIT\Aspect-Core\Core\Core\bin\Debug\netcoreapp3.1\Core.pdb
+E:\GIT\Aspect-Core\Core\Core\obj\Debug\netcoreapp3.1\Core.csprojAssemblyReference.cache
+E:\GIT\Aspect-Core\Core\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+E:\GIT\Aspect-Core\Core\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+E:\GIT\Aspect-Core\Core\Core\obj\Debug\netcoreapp3.1\Core.dll
+E:\GIT\Aspect-Core\Core\Core\obj\Debug\netcoreapp3.1\Core.pdb
+E:\GIT\Aspect-Core\Core\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache

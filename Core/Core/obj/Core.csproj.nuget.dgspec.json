@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\halit\\source\\repos\\Core\\Core\\Core.csproj": {}
+    "E:\\GIT\\Aspect-Core\\Core\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\halit\\source\\repos\\Core\\Core\\Core.csproj": {
+    "E:\\GIT\\Aspect-Core\\Core\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\halit\\source\\repos\\Core\\Core\\Core.csproj",
+        "projectUniqueName": "E:\\GIT\\Aspect-Core\\Core\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\halit\\source\\repos\\Core\\Core\\Core.csproj",
+        "projectPath": "E:\\GIT\\Aspect-Core\\Core\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\halit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\halit\\source\\repos\\Core\\Core\\obj\\",
+        "outputPath": "E:\\GIT\\Aspect-Core\\Core\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -41,6 +41,10 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "Castle.Core": {
+              "target": "Package",
+              "version": "[4.4.1, )"
+            },
             "FluentValidation.AspNetCore": {
               "target": "Package",
               "version": "[8.5.1, )"
